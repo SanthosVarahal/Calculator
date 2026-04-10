@@ -2,4 +2,4 @@
 
 echo "addition"
 
-read num2 
+read num5
